@@ -1,0 +1,42 @@
+{
+    "Seoul Tofu": {
+        "score": "2",
+        "location": "out"
+    },
+    "Sichuan Impression": {
+        "score": "3",
+        "location": "both"
+    },
+    "Popeyes": {
+        "score": "4",
+        "location": "in"
+    },
+    "Tsujita": {
+        "score": "5",
+        "location": "out"
+    },
+    "Hawaii": {
+        "score": "4",
+        "location": "in"
+    },
+    "Kitchen Story": {
+        "score": "3",
+        "location": "both"
+    },
+    "Boiling Point": {
+        "score": "2",
+        "location": "out"
+    },
+    "The Henry": {
+        "score": "5",
+        "location": "out"
+    },
+    "Huizhuan Sushi": {
+        "score": "4",
+        "location": "out"
+    },
+    "SunNongDan": {
+        "score": "3",
+        "location": "out"
+    }
+}
